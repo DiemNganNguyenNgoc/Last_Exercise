@@ -1,0 +1,11 @@
+#root {
+  
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+ 
+}
+h1{
+  color: rgb(119, 13, 115);
+  font-size: 40px;
+}
